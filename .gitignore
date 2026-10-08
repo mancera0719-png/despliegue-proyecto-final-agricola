@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# El CSV original tiene nombres y teléfonos: no se sube
+Crop_Agriculture.csv
+data/Crop_Agriculture.csv
