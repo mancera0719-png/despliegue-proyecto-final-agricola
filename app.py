@@ -9,6 +9,7 @@ import streamlit as st
 st.set_page_config(page_title="Predicción del Rendimiento Agrícola", layout="wide")
 
 st.title("Predicción del Rendimiento Agrícola")
+st.markdown("**Autores:** Santiago Mancera Galindo y Johana Llanos Becerra")
 st.write("Esta aplicación predice el rendimiento de un cultivo en toneladas por hectárea (t/ha) "
          "usando el modelo Lasso entrenado en el proyecto final, ya sea ingresando los datos "
          "manualmente o subiendo un archivo Excel.")
