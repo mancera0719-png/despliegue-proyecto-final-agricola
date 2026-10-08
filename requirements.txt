@@ -1,5 +1,6 @@
-streamlit>=1.40
+streamlit
+pandas
+numpy
+joblib
+openpyxl
 scikit-learn==1.6.1
-pandas>=2.0,<3
-numpy>=1.26
-joblib>=1.3
